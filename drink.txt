@@ -1,3 +1,4 @@
 tea
 coffee
 mocha
+chocolate milk
